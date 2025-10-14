@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://robotwin-benchmark.github.io">Improving Robotic Manipulation with Efficient Geometry-Aware Vision Encoder<br></a>
+  <a href="https://evggt.github.io/">Improving Robotic Manipulation with Efficient Geometry-Aware Vision Encoder<br></a>
 </h1>
 This repository is under active development and will be updated.
 
