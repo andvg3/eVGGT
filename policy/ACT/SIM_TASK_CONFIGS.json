@@ -1,0 +1,42 @@
+{
+    "sim-adjust_bottle-demo_randomized-50": {
+        "dataset_dir": "./processed_data/sim-adjust_bottle/demo_randomized-50",
+        "num_episodes": 50,
+        "episode_len": 1000,
+        "camera_names": [
+            "cam_high",
+            "cam_right_wrist",
+            "cam_left_wrist"
+        ]
+    },
+    "sim-beat_block_hammer-demo_randomized-50": {
+        "dataset_dir": "./processed_data/sim-beat_block_hammer/demo_randomized-50",
+        "num_episodes": 50,
+        "episode_len": 1000,
+        "camera_names": [
+            "cam_high",
+            "cam_right_wrist",
+            "cam_left_wrist"
+        ]
+    },
+    "sim-place_burger_fries-demo_randomized-50": {
+        "dataset_dir": "./processed_data/sim-place_burger_fries/demo_randomized-50",
+        "num_episodes": 50,
+        "episode_len": 1000,
+        "camera_names": [
+            "cam_high",
+            "cam_right_wrist",
+            "cam_left_wrist"
+        ]
+    },
+    "sim-handover_mic-demo_randomized-50": {
+        "dataset_dir": "./processed_data/sim-handover_mic/demo_randomized-50",
+        "num_episodes": 50,
+        "episode_len": 1000,
+        "camera_names": [
+            "cam_high",
+            "cam_right_wrist",
+            "cam_left_wrist"
+        ]
+    }
+}
