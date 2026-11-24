@@ -40,7 +40,7 @@ $ pip install -e . # Install diffusion_policy depenedency
 $ cd ../..
 ```
 
-For weights of eVGGT used for training policy, please download at [this link](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/an_vuong_mbzuai_ac_ae/EdfMz2qQyP5LrcSt44rkr2UBtjSdMvIsieKf7STiRam0yQ?e=v6Q04Y). Place it at:
+For weights of eVGGT used for training policy, please download at [this link](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/an_vuong_mbzuai_ac_ae/IQDXzM9qkMj-S63EreOK5K9lAel4-W8on15fbplnOf8S4tE?e=D1xy7j). Place it at:
 
 ```
 policy/VGGT/checkpoints/distillation
